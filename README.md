@@ -30,6 +30,14 @@
 
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Yirade&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark" width="100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirade&hide_border=true&layout=compact&theme=vision-friendly-dark" width="100%" />
+## Github Stats 
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirade&hide_border=true&theme=vision-friendly-dark" style="min-width: 49%; max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yirade&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark" style="min-width: 49%; max-width: 100%;" />
+</div>
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirade&hide_border=true&theme=vision-friendly-dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yirade&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark" width="49%" />
+</div>
