@@ -5,7 +5,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1800&height=300&lines=Ciao!+Sono+Yirade%2C+piacere+di+conoscerti!;Hey+there!+I'm+Yirade%2C+nice+to+meet+you!;+%C2%A1Hola!+Soy+Yirade%2C+%C2%A1encantado+de+conocerte!;Salut+!+Je+suis+Yirade%2C+enchant%C3%A9+de+faire+ta+connaissance+!;Hallo!+Ich+bin+Yirade%2C+sch%C3%B6n%2C+dich+kennenzulernen!;Ol%C3%A1!+Eu+sou+o+Yirade%2C+prazer+em+te+conhecer!;Hoi!+Ik+ben+Yirade%2C+leuk+je+te+ontmoeten!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81Yirade%E3%81%A8%E8%A8%80%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99;%E5%97%A8%EF%BC%81%E6%88%91%E6%98%AFYirade%EF%BC%8C%E5%BE%88%E9%AB%98%E5%85%B4%E8%AE%A4%E8%AF%86%E4%BD%A0%EF%BC%81;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%99%D0%B8%D1%80%D0%B0%D0%B4%D0%B5%2C+%D1%80%D0%B0%D0%B4+%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D1%83!+;Bun%C4%83!+Sunt+Yirade%2C+%C3%AEnc%C3%A2ntat+s%C4%83+te+cunosc!" alt="Typing SVG" /></a>
 </div>
 
-
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  
 - 🔭 I’m currently working on [Carelink Web](https://github.com/Yirade/Carelink-Web)  
   
 
@@ -16,7 +17,7 @@
   
 
 - ⚡ Fun fact: I don't know the months  
-
+</div>
 <br/>  
 
 ## Languages and Tools
