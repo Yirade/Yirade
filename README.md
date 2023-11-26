@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Carelink Web](https://github.com/Yirade/Carelink-Web)  
   
 
-- 🌱 I’m currently learning Django and C#  
+- 🌱 I’m currently learning Django and Java
   
 
 - ❓ Ask me about anything related to [Anime](https://myanimelist.net/profile/Yirade)  
