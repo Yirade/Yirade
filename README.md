@@ -13,7 +13,7 @@
 | | |
 |:---:|:---:|
 | 🔭 **Working on** | [Carelink Web](https://github.com/Yirade/Carelink-Web) |
-| 🌱 **Currently learning** | Node.js |
+| 🌱 **Currently learning** | nRF54L15 with Zephyr RTOS |
 | ❓ **Ask me about** | [Anime](https://myanimelist.net/profile/Yirade) |
 | ⚡ **Fun fact** | I don't know the months |
 
@@ -38,6 +38,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
 
 ### ⚙️ DevOps & Tools
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>
